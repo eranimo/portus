@@ -1,0 +1,16 @@
+{
+  "name": "portus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "typescript": "^2.4.1"
+  }
+}
