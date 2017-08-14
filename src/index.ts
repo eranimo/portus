@@ -1,15 +1,4 @@
-class Entity {
-  
-}
+import EntityManager from './manager';
 
-class System {
 
-}
-
-export default class EntityManager {
-  systems: Array<System>;
-
-  constructor(...systems: Array<System>) {
-    this.systems = systems;
-  }
-}
+export { EntityManager };
